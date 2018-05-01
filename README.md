@@ -30,4 +30,4 @@ GitLens supercharges the Git capabilities built into Visual Studio Code. It help
 * [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 Visual Studio Code plugin that autocompletes filenames.
 
-Tipp: If you do not like vs code telemetry set: "telemetry.enableTelemetry": false,
+Tipp: If you come from VS development, the [Visual Studio Keymap for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vs-keybindings) might be interesting.
