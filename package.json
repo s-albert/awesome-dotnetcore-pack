@@ -13,15 +13,15 @@
   },
   "categories": ["Extension Packs"],
   "bugs": {
-    "url": "https://github.com/s-albert/awesome-angular-pack/issues",
+    "url": "https://github.com/s-albert/awesome-dotnetcore-pack/issues",
     "email": "app.feedback@live.at"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/s-albert/awesome-angular-pack.git"
+    "url": "https://github.com/s-albert/awesome-dotnetcore-pack.git"
   },
   "homepage":
-    "https://github.com/s-albert/awesome-angular-pack/blob/master/README.md",
+    "https://github.com/s-albert/awesome-dotnetcore-pack/blob/master/README.md",
   "extensionDependencies": [
     "pflannery.vscode-versionlens",
     "mycelo.embrace",
