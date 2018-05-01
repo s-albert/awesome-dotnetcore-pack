@@ -1,0 +1,36 @@
+{
+  "name": "awesome-dotnetcore-pack",
+  "displayName": "Awesome DotNetCore Pack",
+  "description":
+    "Most useful and stable extensions for dotnetcore/angular development.",
+  "version": "1.0.0",
+  "publisher": "salbert",
+  "license": "MIT",
+  "keywords": ["dotnet", "dotnetcore", "c#", "csharp"],
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.22.0"
+  },
+  "categories": ["Extension Packs"],
+  "bugs": {
+    "url": "https://github.com/s-albert/awesome-angular-pack/issues",
+    "email": "app.feedback@live.at"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/s-albert/awesome-angular-pack.git"
+  },
+  "homepage":
+    "https://github.com/s-albert/awesome-angular-pack/blob/master/README.md",
+  "extensionDependencies": [
+    "pflannery.vscode-versionlens",
+    "mycelo.embrace",
+    "eamodio.gitlens",
+    "christian-kohler.path-intellisense",
+    "ms-vscode.csharp",
+    "jchannon.csharpextensions",
+    "k--kato.docomment",
+    "josephwoodward.vscodeilviewer",
+    "kishoreithadi.dotnet-core-essentials"
+  ]
+}
