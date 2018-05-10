@@ -3,7 +3,7 @@
   "displayName": "Awesome DotNetCore Pack",
   "description":
     "Most useful and stable extensions for dotnetcore/angular development.",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "publisher": "salbert",
   "license": "MIT",
   "keywords": ["dotnet", "dotnetcore", "c#", "csharp"],
@@ -11,6 +11,7 @@
   "engines": {
     "vscode": "^1.22.0"
   },
+  "scripts": { "publish": "vsce publish" },
   "categories": ["Extension Packs"],
   "bugs": {
     "url": "https://github.com/s-albert/awesome-dotnetcore-pack/issues",
@@ -35,6 +36,7 @@
     "formulahendry.dotnet-test-explorer",
     "craigthomas.supersharp",
     "jorgeserrano.vscode-csharp-snippets",
-    "quicktype.quicktype"
+    "quicktype.quicktype",
+    "patrys.vscode-code-outline"
   ]
 }
