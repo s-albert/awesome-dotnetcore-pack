@@ -1,6 +1,6 @@
 # Awesome DotNetCore Pack
 
-A colection of useful and stable dotnetcore/C# extensions
+A collection of useful, stable and best rated dotnetcore/C# extensions, which build a productive IDE. If you are also an angular/typescript developer check out the [Awesome Angular Pack](https://marketplace.visualstudio.com/items?itemName=salbert.awesome-angular-pack), which reuses extensions that offer support for both environments.
 
 ## C# and DotNetCore
 
@@ -47,6 +47,9 @@ A colection of useful and stable dotnetcore/C# extensions
 * [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
   Visual Studio Code plugin that autocompletes filenames.
 
+* [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+  Show TODO, FIXME, etc. comment tags in a tree view
+
 ## Recommended extensions (not included)
 
 * [MSSQL](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql)
@@ -74,7 +77,7 @@ A colection of useful and stable dotnetcore/C# extensions
 * Auto save on leaving the editor:
 
 ```
-  "files.autoSave": "onFocusChange"
+"files.autoSave": "onFocusChange"
 ```
 
 * Enhanced minimap performance by disabling render characters in minimap:

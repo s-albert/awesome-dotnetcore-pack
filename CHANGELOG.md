@@ -15,3 +15,7 @@ All notable changes to the "awesome-dotnet-pack" extension pack will be document
 ### added
     "patrys.vscode-code-outline"
 
+## [1.3.0] - 2018-05-11
+### added
+    "Gruntfuggly.todo-tree"
+
