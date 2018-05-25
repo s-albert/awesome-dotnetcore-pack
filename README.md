@@ -11,9 +11,6 @@ A collection of useful, stable and best rated dotnetcore/C# extensions, which bu
 
 * [C# Snippets](https://marketplace.visualstudio.com/items?itemName=jorgeserrano.vscode-csharp-snippets)
 
-* [Dotnet Core Essentials ](https://marketplace.visualstudio.com/items?itemName=kishoreithadi.dotnet-core-essentials)
-  Create, debug, run and publish .Net core/standard applications
-
 * [Super Sharp (C# extensions)](https://marketplace.visualstudio.com/items?itemName=craigthomas.supersharp)
   Provides some missing refactoring features for C#
 
@@ -50,7 +47,13 @@ A collection of useful, stable and best rated dotnetcore/C# extensions, which bu
 * [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
   Show TODO, FIXME, etc. comment tags in a tree view
 
+* [Copy text](https://marketplace.visualstudio.com/items?itemName=salbert.copy-text)
+  Offers more copy options: Copies text without syntax highlighting, optionally adds metainfo like document name and date.
+
 ## Recommended extensions (not included)
+
+* [Dotnet Core Essentials ](https://marketplace.visualstudio.com/items?itemName=kishoreithadi.dotnet-core-essentials)
+  Create, debug, run and publish .Net core/standard applications
 
 * [MSSQL](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql)
   If you are using the ms sql server.

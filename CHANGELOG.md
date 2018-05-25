@@ -19,3 +19,11 @@ All notable changes to the "awesome-dotnet-pack" extension pack will be document
 ### added
     "Gruntfuggly.todo-tree"
 
+## [1.4.0] - 2018-05-25
+### added
+    Copy Text extension
+
+## [1.5.0] - 2018-05-25
+### added
+    Had to remove "Dotnet Core Essentials" because of a bug during installation
+
