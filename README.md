@@ -16,8 +16,8 @@ A collection of useful, stable and best rated dotnetcore/C# extensions, which bu
 
 * [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
 
-* [Code outline](https://marketplace.visualstudio.com/items?itemName=patrys.vscode-code-outline)
-  Displays a code outline tree in the explorer pane.
+* [Dotnet Core Essentials](https://marketplace.visualstudio.com/items?itemName=kishoreithadi.dotnet-core-essentials)
+  Create, debug, run and publish .Net core/standard applications
 
 ## Code formatting and comments
 
@@ -51,9 +51,6 @@ A collection of useful, stable and best rated dotnetcore/C# extensions, which bu
   Offers more copy options: Copies text without syntax highlighting, optionally adds metainfo like document name and date.
 
 ## Recommended extensions (not included)
-
-* [Dotnet Core Essentials ](https://marketplace.visualstudio.com/items?itemName=kishoreithadi.dotnet-core-essentials)
-  Create, debug, run and publish .Net core/standard applications
 
 * [MSSQL](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql)
   If you are using the ms sql server.

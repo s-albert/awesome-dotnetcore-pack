@@ -27,3 +27,11 @@ All notable changes to the "awesome-dotnet-pack" extension pack will be document
 ### added
     Had to remove "Dotnet Core Essentials" because of a bug during installation
 
+## [1.6.0] - 2018-06-24
+### removed
+    patrys.vscode-code-outline removed. Ouline is now supported by VS Code.
+
+## [1.7.0] - 2018-06-29
+### added
+    kishoreithadi.dotnet-core-essentials added, because of [bugfix](https://github.com/KishoreIthadi/DotNet-Core-Essentials/issues/25)
+

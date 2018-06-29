@@ -3,7 +3,7 @@
   "displayName": "Awesome DotNetCore Pack",
   "description":
     "Most useful and stable extensions for dotnetcore/angular development.",
-  "version": "1.5.0",
+  "version": "1.7.0",
   "publisher": "salbert",
   "license": "MIT",
   "keywords": ["dotnet", "core", "c#", "csharp", ".net"],
@@ -36,8 +36,8 @@
     "craigthomas.supersharp",
     "jorgeserrano.vscode-csharp-snippets",
     "quicktype.quicktype",
-    "patrys.vscode-code-outline",
     "Gruntfuggly.todo-tree",
-    "salbert.copy-text"
+    "salbert.copy-text",
+    "kishoreithadi.dotnet-core-essentials"
   ]
 }
