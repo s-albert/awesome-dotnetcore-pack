@@ -19,13 +19,13 @@ A collection of useful, stable and best rated dotnetcore/C# extensions, which bu
 * [Dotnet Core Essentials](https://marketplace.visualstudio.com/items?itemName=kishoreithadi.dotnet-core-essentials)
   Create, debug, run and publish .Net core/standard applications
 
+* [Essential ASP.NET Core Snippets](https://marketplace.visualstudio.com/items?itemName=doggy8088.netcore-snippets)
+  High quality Code Snippets that boost your ASP.NET Core development productivity
+
 ## Code formatting and comments
 
 * [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
   This plugin attempts to override user/workspace settings with settings found in .editorconfig files. No additional or vscode-specific files are required. As with any EditorConfig plugin, if root=true is not specified, EditorConfig will continue to look for an .editorconfig file outside of the project.
-
-* [EMBRACE extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=mycelo.embrace[])
-  Surround the selection with parenthesis, brackets, quotes, etc.
 
 * [XML Documentation Comments Support for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=k--kato.docomment)
   Generate XML documentation comments for Visual Studio Code.

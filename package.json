@@ -3,7 +3,7 @@
   "displayName": "Awesome DotNetCore Pack",
   "description":
     "Most useful and stable extensions for dotnetcore/angular development.",
-  "version": "1.7.0",
+  "version": "1.8.0",
   "publisher": "salbert",
   "license": "MIT",
   "keywords": ["dotnet", "core", "c#", "csharp", ".net"],
@@ -25,7 +25,7 @@
     "https://github.com/s-albert/awesome-dotnetcore-pack/blob/master/README.md",
   "extensionDependencies": [
     "pflannery.vscode-versionlens",
-    "mycelo.embrace",
+    "doggy8088.netcore-snippets",
     "eamodio.gitlens",
     "christian-kohler.path-intellisense",
     "ms-vscode.csharp",
