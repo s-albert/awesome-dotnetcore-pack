@@ -35,7 +35,7 @@ A collection of useful, stable and best rated dotnetcore/C# extensions, which bu
 * [IL Viewer for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=josephwoodward.vscodeilviewer)
   IL (Intermediate Language) Viewer for Visual Studio Code allows you to rapidly inspect the IL output of any given C# file.
 
-* [.NET Core Test Explorer](https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer)
+* [.NET Core Test Explorer](https://marketplace.visualstudio.com/items?itemName=derivitec-ltd.vscode-dotnet-adapter)
   Test Explorer for .NET Core
 
 * [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
