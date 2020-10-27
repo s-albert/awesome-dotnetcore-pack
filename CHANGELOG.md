@@ -1,6 +1,12 @@
 # Change Log
 All notable changes to the "awesome-dotnet-pack" extension pack will be documented in this file.
 
+## [2.1.0] - 2020-10-27
+
+### added
+
+Online help
+
 ## [2.0.0] - 2020-05-31
 ### added
     .Net Core Test Explorer based on Test Explorer UI

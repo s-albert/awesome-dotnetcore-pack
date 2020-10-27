@@ -50,6 +50,9 @@ A collection of useful, stable and best rated dotnetcore/C# extensions, which bu
 * [Copy text](https://marketplace.visualstudio.com/items?itemName=salbert.copy-text)
   Offers more copy options: Copies text without syntax highlighting, optionally adds metainfo like document name and date.
 
+- [Online help](https://marketplace.visualstudio.com/items?itemName=salbert.online-help)
+  Offers context sensitive online help.
+
 ## Recommended extensions (not included)
 
 * [MSSQL](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql)
